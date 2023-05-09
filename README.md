@@ -1,5 +1,5 @@
 # Reatime Location based Weather App
-This app can take your current GPS location and show the weather updates in realtime.
+This app can take your current GPS location and IP Address and show the weather updates in realtime.
 
 
 ## Application Details:
@@ -33,15 +33,17 @@ Platform: Android and iOS
 - [GetX](https://pub.dev/packages/get)
 - [INTL](https://pub.dev/packages/intl)
 
+## Usage:
+- Sign in to [OpenWeatherMap.org](www.openweathermap.org) to retrieve your own API Key.
+- In the file ```api_key.dart```, replace the text ```Your_API_Key``` with your own API key.
+- Build the release APK file on Android Studio and enjoy the app :)
+- Or you can also download the APK file from the ```release section``` of the repository and run the app on your phone.
+
+ <br><br> <br><br>
 
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/b.png?token=GHSAT0AAAAAAB7S7WRJS6FIUULJ3O6DRTIKZCZX5RA)
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/c.png?token=GHSAT0AAAAAAB7S7WRJYAGTQY3E7C6VTLO4ZCZX57Q)
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/a.png?token=GHSAT0AAAAAAB7S7WRIQILAQ5DVFFIVOJQ4ZCZX47Q)
-
-## Usage:
-- Sign in to [OpenWeatherMap.org](www.openweathermap.org) to retrieve your own API Key.
-- In the file ```api_key.dart```, replace the text ```Your_API_Key``` with your own API key.
-- Build the release APK file on Android Studio and  enjoy the app :)
 
 
 ## License
