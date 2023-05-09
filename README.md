@@ -33,10 +33,6 @@ Platform: Android and iOS
 - [GetX](https://pub.dev/packages/get)
 - [INTL](https://pub.dev/packages/intl)
 
-> Feel free contact the developers for any queries. <br>
-> Email: tanvir.rrrabin@gmail.com <br>
-> Telegram: @RooBiiinnn
-
 
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/b.png?token=GHSAT0AAAAAAB7S7WRJS6FIUULJ3O6DRTIKZCZX5RA)
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/c.png?token=GHSAT0AAAAAAB7S7WRJYAGTQY3E7C6VTLO4ZCZX57Q)
