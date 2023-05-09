@@ -37,7 +37,25 @@ Platform: Android and iOS
 > Email: tanvir.rrrabin@gmail.com <br>
 > Telegram: @RooBiiinnn
 
-![APP UI Screenshots](https://user-images.githubusercontent.com/95021955/235283804-d3cc6df4-c9e2-49cc-ad83-90368dbadff2.png)
+![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/a.png?token=GHSAT0AAAAAAB7S7WRIQILAQ5DVFFIVOJQ4ZCZX47Q)
+![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/b.png?token=GHSAT0AAAAAAB7S7WRJS6FIUULJ3O6DRTIKZCZX5RA)
+![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/c.png?token=GHSAT0AAAAAAB7S7WRJYAGTQY3E7C6VTLO4ZCZX57Q)
+
+## Usage:
+- Sign in to [OpenWeatherMap.org](www.openweathermap.org) to retrieve your own API Key.
+- In the file ```api_key.dart```, replace the text ```Your_API_Key``` with your own API key.
+- Build the release APK file on Android Studio and  enjoy the app :)
+
+
+## License
+[Apache License 2.0 © Weather Mania](https://github.com/SatyakiDey75/Hack-ur-Way-App/blob/main/LICENSE)
 
 
 
+## 🙋‍♂️ Support
+
+💙 If you like this project, do give it a ⭐ and share it with your friends!<br><br>
+
+---
+
+Made with ❤️ and Dart. <br><br>
