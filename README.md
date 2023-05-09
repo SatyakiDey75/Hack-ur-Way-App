@@ -34,10 +34,23 @@ Platform: Android and iOS
 - [INTL](https://pub.dev/packages/intl)
 
 ## Usage:
-- Sign in to [OpenWeatherMap.org](www.openweathermap.org) to retrieve your own API Key.
-- In the file ```api_key.dart```, replace the text ```Your_API_Key``` with your own API key.
-- Build the release APK file on Android Studio and enjoy the app :)
-- Or you can also download the APK file from the ```release section``` of the repository and run the app on your phone.
+
+- You can download the APK file from the ```release section``` of the repository and run the app on your phone.
+- Or you can also build the app on your own machine:
+  - If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+  - Fetch latest source code from master branch.
+  ```
+  git clone https://github.com/SatyakiDey75/Hack-ur-Way-App
+  ```
+  - Sign in to [OpenWeatherMap.org](www.openweathermap.org) to retrieve your own API Key.
+  - In the file ```api_key.dart```, replace the text ```Your_API_Key``` with your own API key.
+  - Run the app with Android Studio or VS Code. Or the command line:
+
+  ```
+  flutter pub get
+  flutter run
+  ```
+
 
  <br><br> <br><br>
 
