@@ -58,6 +58,14 @@ Platform: Android and iOS
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/c.png?token=GHSAT0AAAAAAB7S7WRJYAGTQY3E7C6VTLO4ZCZX57Q)
 ![APP UI Screenshots](https://raw.githubusercontent.com/SatyakiDey75/Hack-ur-Way-App/main/assets/screenshots/a.png?token=GHSAT0AAAAAAB7S7WRIQILAQ5DVFFIVOJQ4ZCZX47Q)
 
+<br><br>
+## Contributions
+This project would not have been possible without the efforts of the following people:
+- Arunava Dutta &nbsp;[(@ArunavaCoderEm)](https://github.com/ArunavaCoderEm)
+- Satyaki Dey &nbsp;[(@SatyakiDey75)](https://github.com/SatyakiDey75)
+- Sonika Biswas &nbsp;[(@Sonika12Biswas)](https://github.com/Sonika12Biswas)
+- Subhadeep Roy &nbsp;[(@subhadeep3902)](https://github.com/subhadeep3902)
+
 
 ## License
 [Apache License 2.0 © Weather Mania](https://github.com/SatyakiDey75/Hack-ur-Way-App/blob/main/LICENSE)
